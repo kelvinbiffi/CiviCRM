@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<extension key="org.civicrm.mobule.memberships" type="module">
+  <file>memberships</file>
+  <name>Memberships</name>
+  <description>Module extension to search memberships</description>
+  <license>AGPL-3.0</license>
+  <maintainer>
+    <author>Kelvin Biffi</author>
+    <email>kelvin.biffi@hotmail.com</email>
+  </maintainer>
+  <releaseDate>2016-10-07</releaseDate>
+  <version>1.0</version>
+  <develStage>alpha</develStage>
+  <compatibility>
+    <ver>4.7</ver>
+  </compatibility>
+  <comments>This is a new, undeveloped module</comments>
+  <civix>
+    <namespace>CRM/Memberships</namespace>
+  </civix>
+</extension>
